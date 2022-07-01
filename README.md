@@ -26,6 +26,7 @@
         <img src="html files/my picture.jpg" alt="">
         <p class="Name"> Natbodi Kudsim</p>
         <p> this is my picture</p>
+        <p> I am from Republic Polytechnic and I am currently in Diploma for Supply Chain Management (DSCM) in the School of Engineering (SEG)</p>
     </body>
 
 
