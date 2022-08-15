@@ -1,6 +1,28 @@
+<html>
+
+<head> <meta name="color-scheme" content="light dark"> </head>
+
+<body>
 /* Style for Title and description */
 
 .at-action-menu {
 visibility : hidden;
 display: none;
 }
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>
